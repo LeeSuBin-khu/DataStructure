@@ -9,3 +9,9 @@ https://studymake.tistory.com/108
 
 - const 함수 위치:
 https://pangtrue.tistory.com/16
+
+- 파일의 끝:
+https://blockdmask.tistory.com/322
+
+- 파일 관련 함수:
+https://angliss.tistory.com/378
